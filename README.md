@@ -56,9 +56,9 @@ venv\Scripts\activate
 
 ```
 ### Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 
 Run the Streamlit app:
 ```
@@ -84,8 +84,10 @@ diabetes-prediction-app/
 ├── requirements.txt        # Python dependencies
 └── README.md
 ```
+
+### 📊 Model Details
 ```
-📊 Model Details
+
 Model	Accuracy	Precision	Recall	F1-Score	ROC-AUC
 Logistic Regression	0.78	0.74	0.68	0.71	0.82
 Random Forest	0.81	0.76	0.73	0.74	0.85
@@ -94,7 +96,7 @@ XGBoost	0.83	0.78	0.75	0.76	0.87
 
 Metrics calculated using 5-fold cross-validation.
 
-⚙️ Contributing
+## ⚙️ Contributing
 
 Contributions are welcome!
 
@@ -119,6 +121,7 @@ Kaggle Pima Indians Diabetes Dataset
 Streamlit Documentation
 
 Scikit-learn, XGBoost, Seaborn & Matplotlib
+
 
 
 
