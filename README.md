@@ -30,7 +30,7 @@ A web application built with **Streamlit** that predicts the likelihood of diabe
 ## 🚀 Live Demo
 
 Access the app online: [Diabetes Prediction Streamlit App](https://saajidpasha10-machinelearning-diabetes-prediction-app-0vezck.streamlit.app/)  
-*(Replace with your deployed Streamlit link)*
+
 
 ---
 
@@ -121,6 +121,7 @@ Kaggle Pima Indians Diabetes Dataset
 Streamlit Documentation
 
 Scikit-learn, XGBoost, Seaborn & Matplotlib
+
 
 
 
